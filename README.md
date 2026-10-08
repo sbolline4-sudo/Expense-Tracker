@@ -40,4 +40,4 @@ The `expense.db` file is created automatically when the application runs.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/sbolline4-sudo/Expense-Tracker>
